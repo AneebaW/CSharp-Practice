@@ -1,0 +1,5 @@
+Async Programming
+Dependency injection
+Middlewares
+Extension Methods
+Repository Pattern
